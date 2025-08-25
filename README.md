@@ -1,11 +1,16 @@
-## 👋 Olá, eu sou Ricardo Alves
+## Olá, eu sou Ricardo Alves
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+Programador em formação voltado para o **frontend**, mas com algumas habilidades em **backend**.  
+Estudante de Ciência da Computação na UNAMA (conclusão prevista para dezembro de 2025).  
 
-💻 Programador em formação voltado para o **frontend**, mas com algumas habilidades em **backend**.  
-🎓 Estudante de Ciência da Computação na UNAMA (conclusão prevista para dezembro de 2025).  
+### 📊 Estatísticas do meu GitHub
 
----
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoJrn1&show_icons=true&theme=dark" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoJrn1&layout=compact&theme=dark" height="180em"/>
+</div>
+
+![Snake animation](https://github.com/RicardoJrn1/RicardoJrn1/blob/output/snake.svg)
 
 ### 🚀 Tecnologias que utilizo
 
@@ -26,14 +31,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
----
-
-### 📊 Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoJrn1&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoJrn1&layout=compact&theme=dracula)
-
----
-
 ### 📌 Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=jogo-do-numero-secreto&theme=dracula)](https://github.com/RicardoJrn1/jogo-do-numero-secreto)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=Alura-Plus&theme=dracula)](https://github.com/RicardoJrn1/Alura-Plus)
@@ -41,5 +38,7 @@
 ---
 
 ### 📫 Como me encontrar
-- **GitHub**: [RicardoJrn1](https://github.com/RicardoJrn1)
-- **LinkedIn**: [linkedin.com/in/ricardo-alves-jr](https://linkedin.com/in/ricardo-alves-jr)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicardoJrn1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-alves-jr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ricardjrn)
