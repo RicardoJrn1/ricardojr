@@ -32,8 +32,21 @@ Estudante de Ciência da Computação na UNAMA (conclusão prevista para dezembr
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
 ### 📌 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=jogo-do-numero-secreto&theme=dracula)](https://github.com/RicardoJrn1/jogo-do-numero-secreto)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=Alura-Plus&theme=dracula)](https://github.com/RicardoJrn1/Alura-Plus)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/RicardoJrn1/jogo-do-numero-secreto">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=jogo-do-numero-secreto&theme=dracula" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/RicardoJrn1/Alura-Plus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=Alura-Plus&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
